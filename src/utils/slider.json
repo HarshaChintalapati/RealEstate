@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hruday Gardens",
+    "price": "1,00,00,00,000",
+    "detail": "Hitechcity,Hyderabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Devi Garden City",
+    "price": "90,00,000",
+    "detail": "Dwarakanagar,Visakhapatnam",
+    "image": "./r2.png"
+  },
+  {
+    "name": "MVV city",
+    "price": "1,20,00,00,000",
+    "detail": "Complex,Visakhapatnam",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Vikas Home Villas",
+    "price": "2,00,00,00,000",
+    "detail": "jail Road,Kakinada",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Astrix Towers",
+    "price": "95,00,000",
+    "detail": "New Delhi",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Gateway city",
+    "price": "1,50,00,00,000",
+    "detail": "Bandra,Mumbai",
+    "image": "./r3.png"
+  }
+]
